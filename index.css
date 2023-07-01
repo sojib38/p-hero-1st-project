@@ -121,3 +121,70 @@
 
 
 /* Section 2 end */
+
+
+
+
+/* Section 3 start */
+
+.experience-sec{
+    margin-bottom: 100px;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+.card-container{
+    display: flex;
+    gap: 70px;
+}
+
+.exp-h1{
+    margin-left: 80px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+.card-1{
+    width: 40%;
+    padding-top: 30px;
+    padding-left: 40px;
+    margin-left: 80px;
+    border-left: 5px solid rgb(245, 56, 56);
+    box-shadow: 10px 10px 40px #888888;
+    border-radius: 5px;
+}
+
+.cd1-h1,.cd2-h1{
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+.cd1-h3,.cd2-h3{
+    margin-top: 60px;
+    color: orange;
+    font-size: 20px;
+}
+
+.cd1-p,.cd2-p{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
+
+.card-2{
+    width: 40%;
+    padding-top: 30px;
+    padding-left: 40px;
+    border-left: 5px solid rgb(13, 89, 212);
+    box-shadow: 10px 10px 40px #888888;
+    border-radius: 5px;
+}
+/* Section 3 end */
+
+
+footer p{
+    text-align: center;
+}
